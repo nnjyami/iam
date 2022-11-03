@@ -84,6 +84,36 @@
         <li>ZEKU か LOLO か</li>
       </ul>
     </section>
+    <div class="card">
+      <figure class="card_img">
+        <img src="@/assets/img/L1009282.JPG" />
+      </figure>
+    </div>
+    <div class="card">
+      <figure class="card_img">
+        <img src="@/assets/img/L1009771.JPG" />
+      </figure>
+    </div>
+    <div class="card">
+      <figure class="card_img">
+        <img src="@/assets/img/L1000053.JPG" />
+      </figure>
+    </div>
+    <div class="card">
+      <figure class="card_img">
+        <img src="@/assets/img/L1000172.JPG" />
+      </figure>
+    </div>
+    <div class="card">
+      <figure class="card_img">
+        <img src="@/assets/img/L1004277.JPG" />
+      </figure>
+    </div>
+    <div class="card">
+      <figure class="card_img">
+        <img src="@/assets/img/L1008797.JPG" />
+      </figure>
+    </div>
   </div>
 </template>
 
